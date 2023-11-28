@@ -1,30 +1,78 @@
-# React + TypeScript + Vite
+````markdown
+# Flanders Frontend Coding Challenge - Elegant Login Page Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Greetings! 👋 I'm Jose Thankachan Mundackal, and I've crafted a delightful login page solution for you.
 
-Currently, two official plugins are available:
+## Developer Details
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Name:** Jose Thankachan Mundackal
+- **Email:** josetm94mec@gmail.com
 
-## Expanding the ESLint configuration
+## Challenge Overview
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 1. Credentials
 
-- Configure the top-level `parserOptions` property like this:
+- **Username:** MAINT
+- **Password:** safetyiskey
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### 2. Simulated API Call
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To mimic real-world scenarios, I've simulated the API call using the `setTimeout` function, with response intervals ranging between 100ms and 600ms.
+
+### 3. Chosen Frontend Framework
+
+For this challenge, I opted for React, bringing the power of TypeScript to ensure a robust and type-safe solution.
+
+### 4. Thoughtful Design
+
+I've carefully curated a visually pleasing design, incorporating the color #95bce2 seamlessly into the layout. Additionally, I've integrated a captivating image to enhance the user experience.
+
+## Login Page
+
+A quick glimpse of your solution.
+
+![Login Page Screenshot](./src/assets/images/screenshot.jpg)
+
+## Getting Started
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/jmundackaltest/flanders-fe.git
+   ```
+````
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd your-repository
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+   or
+
+   ```bash
+   yarn install
+   ```
+
+4. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+   or
+
+   ```bash
+   yarn start
+   ```
+
+## Submission
+
+Feel free to explore the code, and I'm open to any feedback or questions you may have.
+
+Happy coding! 🚀✨
