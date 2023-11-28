@@ -1,4 +1,4 @@
-# Flanders Frontend Coding Challenge - Elegant Login Page Solution
+# Flanders Frontend Coding Challenge - Elegant Login Page Solution 
 
 Greetings! 👋 I'm Jose Thankachan Mundackal, and I've crafted a delightful login page solution for you.
 
