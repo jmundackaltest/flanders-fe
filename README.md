@@ -29,6 +29,10 @@ A quick glimpse of your solution.
 
 ![screenshot](https://github.com/jmundackaltest/flanders-fe/assets/152278999/fe36718d-d459-4e2c-a1a2-9557efce0bf5)
 
+### 5. Demo
+
+The demo project can be viewed at https://jmundackaltest.github.io/flanders-fe/
+
 
 ## Getting Started
 
