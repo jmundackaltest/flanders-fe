@@ -44,7 +44,7 @@ The demo project can be viewed at https://jmundackaltest.github.io/flanders-fe/
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repository
+   cd flanders-fe
    ```
 
 3. **Install dependencies:**
